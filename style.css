@@ -1,0 +1,20 @@
+#container {
+  width: 960px;
+  margin: auto;
+
+}
+
+h1 {
+  font-family: arial;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
